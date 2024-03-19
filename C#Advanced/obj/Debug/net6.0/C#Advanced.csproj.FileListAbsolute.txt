@@ -1,0 +1,15 @@
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.exe
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.deps.json
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.runtimeconfig.json
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.dll
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\bin\Debug\net6.0\C#Advanced.pdb
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.csproj.AssemblyReference.cache
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.AssemblyInfoInputs.cache
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.AssemblyInfo.cs
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.csproj.CoreCompileInputs.cache
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.dll
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\refint\C#Advanced.dll
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.pdb
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\C#Advanced.genruntimeconfig.cache
+F:\Work_Space\C#Package\C#Advanced\C#Advanced\obj\Debug\net6.0\ref\C#Advanced.dll
