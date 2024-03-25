@@ -17,7 +17,9 @@
 
             //UseDelegate.CallDelegate();
 
-            DelegateforUnitConversion.ON();
+            //DelegateforUnitConversion.ON();
+
+            EmployeesSalaries.CalculateSalaries(EmployeesSalaries.CreateList(),e => e.BasicSalary>2000);
 
             
            
